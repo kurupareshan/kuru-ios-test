@@ -60,7 +60,6 @@ playground.xcworkspace
 # *.xcworkspace
 # CocoaPods
 Podfile.lock
-Pods
 *.xcworkspace
 # Carthage
 #
